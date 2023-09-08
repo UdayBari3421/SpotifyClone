@@ -529,8 +529,7 @@ header .link-flex>img {
 
     .card-flex img {
         height: 100%;
-        width: 33%;
-        box-sizing: border-box;
+        width: fit-content;
     }
 
     .card-flex h6 {
