@@ -431,6 +431,10 @@ header .link-flex>img {
         display: none;
     }
 
+    .card-name {
+        text-align: center;
+    }
+
     .card img {
         padding: 23px;
         width: 100%;
